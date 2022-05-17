@@ -66,9 +66,8 @@
 
           <div class="collapse navbar-collapse" id="menu">
           <ul class="nav navbar-nav navbar-right">
-              <li><a href="#header">Acceuil</a></li>
-              <li><a href="#about">Action</a></li>
-              <li><a href="#contact">Contact</a></li>
+            <li><a href="index.html">Acceuil</a></li>
+            <li><a href="trait.php">Action</a></li>
             </ul>
           </div> <!-- /.navbar-collapse -->
         </div> <!-- /.container -->
@@ -207,7 +206,7 @@
                 <span><i class="fa fa-map-marker fa-lg"></i> ANTANANARIVO 102</span>
                 <span><i class="fa fa-phone fa-lg"></i> 0346074705</span>
                 <span><i class="fa fa-envelope-o fa-lg"></i> <a href="mickayarans@outlook.fr">mickayarans@outlook.fr</a></span>
-                <span><i class="fa fa-globe fa-lg"></i> <a href="http://support.example.com">support.example.com</a></span>
+                <span><i class="fa fa-globe fa-lg"></i> <a href="http://support.example.com">http://saveworld.alwaysdata.net</a></span>
             </address>
           </div>
 		  

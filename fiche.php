@@ -131,7 +131,7 @@
           <div class="collapse navbar-collapse" id="menu">
           <ul class="nav navbar-nav navbar-right">
               <li><a href="index.html">Acceuil</a></li>
-              <li><a href="Action.php">Action</a></li>
+              <li><a href="trait.php">Action</a></li>
             </ul>
           </div> <!-- /.navbar-collapse -->
         </div> <!-- /.container -->

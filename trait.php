@@ -72,7 +72,7 @@ try{
     for($i=0;$i<count($liste) ;$i++){
         $valiny=slugify($liste[$i]->titre,'_');
         $cache.="{\n
-            category : \"".$liste[$i]->categorie."\",\n image : \"images/".$liste[$i]->contenue."\",\n title : \"".$liste[$i]->titre."\",\n link : \"http://localhost:1024/daraz/".$liste[$i]->categorie."/".$valiny."-".$liste[$i]->id.".php\", \n  text : \"".$liste[$i]->resume."\"\n },\n";
+            category : \"".$liste[$i]->categorie."\",\n image : \"images/".$liste[$i]->contenue."\",\n title : \"".$liste[$i]->titre."\",\n link : \"http://saveworld.alwaysdata.net/Actu/".$valiny."-".$liste[$i]->id.".php\", \n  text : \"".$liste[$i]->resume."\"\n },\n";
     };
     $cache=$cache."]; \n </script>\n";
     file_put_contents("cache.html",$cache);
